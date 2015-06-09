@@ -4,7 +4,6 @@ Given a list of space separated words, reverse the order of the words. Each line
     "foobar" => "foobar"
     "all your base" => "base your all"
 
-
 Input: 
 * 5
 * this is a test
@@ -15,7 +14,7 @@ Input:
 
 ---
 
-## Retrospective
+### Retrospective
 
 GOOD
 * Focus
